@@ -421,6 +421,6 @@ You trace to stay auditable. You redact to stay compliant. You do both to be tru
 
 ---
 
-> *The demo code is available on GitHub at [link-to-repo]. References: NIST AI 100-1, Artificial Intelligence Risk Management Framework (AI RMF 1.0), January 2023.*
+> *The demo code is available on GitHub at [haithamshahin333/langsmith-tracing-redaction-demo](https://github.com/haithamshahin333/langsmith-tracing-redaction-demo). References: NIST AI 100-1, Artificial Intelligence Risk Management Framework (AI RMF 1.0), January 2023.*
 >
 > *This post was produced with the assistance of generative AI. All customer data in the demo is fictional. The NIST AI RMF mappings discussed here reflect one interpretation of the framework applied to a specific tooling context. Organizations should validate their own compliance requirements against the full framework and consult appropriate legal and compliance advisors.*

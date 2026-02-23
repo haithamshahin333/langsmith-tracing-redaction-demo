@@ -1,0 +1,15 @@
+[project]
+name = "langsmith-compliance-demo"
+version = "0.1.0"
+description = "Demo: LangSmith tracing with PII redaction mapped to NIST AI RMF"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=0.3",
+    "langchain-openai>=0.3",
+    "langgraph>=0.2",
+    "langsmith>=0.2",
+    "streamlit>=1.40",
+    "presidio-analyzer>=2.2",
+    "presidio-anonymizer>=2.2",
+    "python-dotenv>=1.0",
+]
